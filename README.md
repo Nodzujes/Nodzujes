@@ -1,4 +1,4 @@
-## Hi'm Petr 👋
+## Hi, I'm Petr👋
 
 💻 I am frontend and fullstack developer.<br/>
 ⚙️ I create web applications and create designs in figma.<br/>
